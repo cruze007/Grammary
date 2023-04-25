@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grammary/static/css/main.2921e08f.css",
+    "main.js": "/grammary/static/js/main.95185284.js",
+    "static/js/787.21ae6fcf.chunk.js": "/grammary/static/js/787.21ae6fcf.chunk.js",
+    "index.html": "/grammary/index.html",
+    "main.2921e08f.css.map": "/grammary/static/css/main.2921e08f.css.map",
+    "main.95185284.js.map": "/grammary/static/js/main.95185284.js.map",
+    "787.21ae6fcf.chunk.js.map": "/grammary/static/js/787.21ae6fcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2921e08f.css",
+    "static/js/main.95185284.js"
+  ]
+}
